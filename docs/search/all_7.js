@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['readme_2emd_56',['README.md',['../src_2libs_2_m_h_z19_2_r_e_a_d_m_e_8md.html',1,'']]],
-  ['sendcommand_57',['sendCommand',['../class_m_h_z19.html#a0359d2960e3ce90e35b3a03f3e54259d',1,'MHZ19']]],
-  ['setautocalibration_58',['setAutoCalibration',['../class_m_h_z19.html#a7aa571a5f3a466a35b153de236235176',1,'MHZ19']]],
-  ['setrange_59',['setRange',['../class_m_h_z19.html#adfae58542fb8d1041263808538331e70',1,'MHZ19']]],
-  ['start_60',['start',['../class_m_h_z19_p_w_m.html#a4db568562de6a341039c65b412e9c1e9',1,'MHZ19PWM']]],
-  ['stop_61',['stop',['../class_m_h_z19_p_w_m.html#a84b50d31b37e0a7359fc9b0aaada9224',1,'MHZ19PWM']]]
+  ['get_5fnode_5funsafe_76',['get_node_unsafe',['../classdelegate_1_1detail_1_1_multi_delegate_p_impl.html#a07f9513c257e6296168dea5cfb351fe7',1,'delegate::detail::MultiDelegatePImpl']]],
+  ['getaccuracy_77',['getAccuracy',['../class_m_h_z19.html#a4a7baf2bed94308cf187587823239c30',1,'MHZ19']]],
+  ['getco2_78',['getCO2',['../class_m_h_z19.html#ae233938693b042167649880942f51d8a',1,'MHZ19::getCO2()'],['../class_m_h_z19_p_w_m.html#ac1e286b316a7d483c658e661badbc8ca',1,'MHZ19PWM::getCO2()']]],
+  ['getminco2_79',['getMinCO2',['../class_m_h_z19.html#ade6265b8da29dea7473d8587cdda9bd7',1,'MHZ19']]],
+  ['gettemperature_80',['getTemperature',['../class_m_h_z19.html#ab96a802a46d4fa00f802a8434418b2ec',1,'MHZ19']]],
+  ['ghostl_2eh_81',['ghostl.h',['../ghostl_8h.html',1,'']]]
 ];

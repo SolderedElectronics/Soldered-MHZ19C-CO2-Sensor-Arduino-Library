@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['waitfordata_63',['waitForData',['../class_m_h_z19_p_w_m.html#a64feee671803733059e4165bad073842',1,'MHZ19PWM']]],
-  ['write_64',['write',['../class_m_h_z19.html#a5543151656e59193ed5f163133d983e9',1,'MHZ19']]]
+  ['kind_89',['kind',['../classdelegate_1_1detail_1_1_delegate_p_impl.html#a06c9439442dcb8f18826f471a90778f2',1,'delegate::detail::DelegatePImpl::kind()'],['../classdelegate_1_1detail_1_1_delegate_p_impl.html#a9312d86012e4833b3e75c7d7158feb0c',1,'delegate::detail::DelegatePImpl::kind()'],['../classdelegate_1_1detail_1_1_delegate_p_impl_3_01void_00_01_r_00_01_p_8_8_8_01_4.html#a51d2c143bc1014b141485fb98dd0397c',1,'delegate::detail::DelegatePImpl&lt; void, R, P... &gt;::kind()'],['../classdelegate_1_1detail_1_1_delegate_impl.html#a72dc96f76a36289814e534e18a7e00d3',1,'delegate::detail::DelegateImpl::kind()'],['../classdelegate_1_1detail_1_1_delegate_impl.html#a6d02cd03cdb2805abfc550c5c3079ccc',1,'delegate::detail::DelegateImpl::kind()'],['../classdelegate_1_1detail_1_1_delegate_impl_3_01void_00_01_r_01_4.html#a6085a2a8b7addb7deecc5f79202c0078',1,'delegate::detail::DelegateImpl&lt; void, R &gt;::kind()']]]
 ];

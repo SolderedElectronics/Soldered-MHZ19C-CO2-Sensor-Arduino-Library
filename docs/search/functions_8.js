@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['waitfordata_99',['waitForData',['../class_m_h_z19_p_w_m.html#a64feee671803733059e4165bad073842',1,'MHZ19PWM']]],
-  ['write_100',['write',['../class_m_h_z19.html#a5543151656e59193ed5f163133d983e9',1,'MHZ19']]]
+  ['load_350',['load',['../classstd_1_1atomic.html#a739d3a97c7689e2541d57dd4b5c2d900',1,'std::atomic']]]
 ];

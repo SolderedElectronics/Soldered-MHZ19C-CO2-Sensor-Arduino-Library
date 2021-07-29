@@ -1,29 +1,5 @@
 var searchData=
 [
-  ['mhz19_26',['MHZ19',['../class_m_h_z19.html',1,'MHZ19'],['../class_m_h_z19.html#a94984602b7c64b1914e8f4149d309be6',1,'MHZ19::MHZ19()']]],
-  ['mhz19_2dsoldered_2ecpp_27',['MHZ19-SOLDERED.cpp',['../_m_h_z19-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
-  ['mhz19_2dsoldered_2eh_28',['MHZ19-SOLDERED.h',['../_m_h_z19-_s_o_l_d_e_r_e_d_8h.html',1,'']]],
-  ['mhz19_2ecpp_29',['MHZ19.cpp',['../_m_h_z19_8cpp.html',1,'']]],
-  ['mhz19_2eh_30',['MHZ19.h',['../_m_h_z19_8h.html',1,'']]],
-  ['mhz19_5frange_31',['MHZ19_RANGE',['../_m_h_z19_8h.html#a35a681f9f7448a1977e65ee37251d1b3',1,'MHZ19.h']]],
-  ['mhz19_5frange_5f1000_32',['MHZ19_RANGE_1000',['../_m_h_z19_8h.html#a35a681f9f7448a1977e65ee37251d1b3a6ba63a88b88663520cab5fb4c39db1e3',1,'MHZ19.h']]],
-  ['mhz19_5frange_5f10000_33',['MHZ19_RANGE_10000',['../_m_h_z19_8h.html#a35a681f9f7448a1977e65ee37251d1b3a6dc36deb812d41d009754c15d9385772',1,'MHZ19.h']]],
-  ['mhz19_5frange_5f2000_34',['MHZ19_RANGE_2000',['../_m_h_z19_8h.html#a35a681f9f7448a1977e65ee37251d1b3aeeb61bb820b567770ae2908dcf82d7b9',1,'MHZ19.h']]],
-  ['mhz19_5frange_5f3000_35',['MHZ19_RANGE_3000',['../_m_h_z19_8h.html#a35a681f9f7448a1977e65ee37251d1b3a2cd7ef61a1b03e7ac415b5f23309f48b',1,'MHZ19.h']]],
-  ['mhz19_5frange_5f5000_36',['MHZ19_RANGE_5000',['../_m_h_z19_8h.html#a35a681f9f7448a1977e65ee37251d1b3aa1fc23c5246b38a1b079a033324055b1',1,'MHZ19.h']]],
-  ['mhz19_5fresult_37',['MHZ19_RESULT',['../_m_h_z19_8h.html#a045a0cb5e15944ba53e891127df0bba2',1,'MHZ19.h']]],
-  ['mhz19_5fresult_5ferr_5fcrc_38',['MHZ19_RESULT_ERR_CRC',['../_m_h_z19_8h.html#a045a0cb5e15944ba53e891127df0bba2ad03b9d88144105345d91d98c90a1af59',1,'MHZ19.h']]],
-  ['mhz19_5fresult_5ferr_5ffb_39',['MHZ19_RESULT_ERR_FB',['../_m_h_z19_8h.html#a045a0cb5e15944ba53e891127df0bba2abfe73f9aff05db5b04ea28d24b58b076',1,'MHZ19.h']]],
-  ['mhz19_5fresult_5ferr_5fsb_40',['MHZ19_RESULT_ERR_SB',['../_m_h_z19_8h.html#a045a0cb5e15944ba53e891127df0bba2a7fa7c98e70822161696cd60134bf7676',1,'MHZ19.h']]],
-  ['mhz19_5fresult_5ferr_5ftimeout_41',['MHZ19_RESULT_ERR_TIMEOUT',['../_m_h_z19_8h.html#a045a0cb5e15944ba53e891127df0bba2a3c3b8a7db8ca12260393343b6ddca926',1,'MHZ19.h']]],
-  ['mhz19_5fresult_5ferr_5funknown_42',['MHZ19_RESULT_ERR_UNKNOWN',['../_m_h_z19_8h.html#a045a0cb5e15944ba53e891127df0bba2ae2b3ff59cfeb7a4eac8202f8d11dc4fb',1,'MHZ19.h']]],
-  ['mhz19_5fresult_5fok_43',['MHZ19_RESULT_OK',['../_m_h_z19_8h.html#a045a0cb5e15944ba53e891127df0bba2a7f8476bab84805b0f060380cb8cc495c',1,'MHZ19.h']]],
-  ['mhz19c_20soldered_20co2_20sensor_20arduino_20library_44',['MHZ19C Soldered CO2 Sensor Arduino library',['../index.html',1,'']]],
-  ['mhz19pwm_45',['MHZ19PWM',['../class_m_h_z19_p_w_m.html#ab12339becb2d1fb85e046b891cf27e60',1,'MHZ19PWM::MHZ19PWM()'],['../class_m_h_z19_p_w_m.html',1,'MHZ19PWM']]],
-  ['mhz19pwm_2ecpp_46',['MHZ19PWM.cpp',['../_m_h_z19_p_w_m_8cpp.html',1,'']]],
-  ['mhz19pwm_2eh_47',['MHZ19PWM.h',['../_m_h_z19_p_w_m_8h.html',1,'']]],
-  ['mhz_5fasync_5fmode_48',['MHZ_ASYNC_MODE',['../_m_h_z19_p_w_m_8h.html#a618b68b3de372d9907610c7709bd9746a01f36576520cac987d7de564e436beb1',1,'MHZ19PWM.h']]],
-  ['mhz_5fcontinuous_5fmode_49',['MHZ_CONTINUOUS_MODE',['../_m_h_z19_p_w_m_8h.html#a618b68b3de372d9907610c7709bd9746a582ffdb6ceaffa3d777e5eb066ed215b',1,'MHZ19PWM.h']]],
-  ['mhz_5fdelayed_5fmode_50',['MHZ_DELAYED_MODE',['../_m_h_z19_p_w_m_8h.html#a618b68b3de372d9907610c7709bd9746a1ab038f1426f02091d90408296ef561b',1,'MHZ19PWM.h']]],
-  ['mhz_5fmode_51',['MHZ_MODE',['../_m_h_z19_p_w_m_8h.html#a618b68b3de372d9907610c7709bd9746',1,'MHZ19PWM.h']]]
+  ['end_57',['end',['../classdelegate_1_1detail_1_1_multi_delegate_p_impl.html#a059bca4e062a170d69ed0ed265b90aa3',1,'delegate::detail::MultiDelegatePImpl']]],
+  ['erase_58',['erase',['../classdelegate_1_1detail_1_1_multi_delegate_p_impl.html#ab1d9378d9fc8c4a0e16cf512640613cf',1,'delegate::detail::MultiDelegatePImpl::erase(iterator it)'],['../classdelegate_1_1detail_1_1_multi_delegate_p_impl.html#a7e4adb2ae87c41b872e992f27fe54b76',1,'delegate::detail::MultiDelegatePImpl::erase(const Delegate *const del)']]]
 ];

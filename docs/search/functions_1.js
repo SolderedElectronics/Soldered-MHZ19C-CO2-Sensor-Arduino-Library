@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['calccrc_78',['calcCRC',['../class_m_h_z19.html#ae0f502a5446162d10102b6b549548092',1,'MHZ19']]],
-  ['calibratespan_79',['calibrateSpan',['../class_m_h_z19.html#afa90bf63472120cf869610850f549d44',1,'MHZ19']]],
-  ['calibratezero_80',['calibrateZero',['../class_m_h_z19.html#af6df888324dfb944358496a8ba8d26e8',1,'MHZ19']]]
+  ['begin_322',['begin',['../classdelegate_1_1detail_1_1_multi_delegate_p_impl.html#a2bc816c53c58a20100e2d1165589306d',1,'delegate::detail::MultiDelegatePImpl']]],
+  ['bytes2int_323',['bytes2int',['../class_m_h_z19.html#aa6d327585cb29da970c331c6c77e69a2',1,'MHZ19']]]
 ];

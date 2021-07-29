@@ -4,7 +4,7 @@
  * @file        PWM-Delayed-Mode.cpp
  * @brief       Example of PWM Delayed Mode on MHZ19C
  *
- * See the board at https://solde.red/[_sku]
+ * See the board at https://solde.red/108994
  *
  * @authors     Zvonimir Haramustek for soldered.com
  ***************************************************/

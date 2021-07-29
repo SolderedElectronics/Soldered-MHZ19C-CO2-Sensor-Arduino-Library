@@ -5,7 +5,7 @@
 
 | ![MHZ19C Soldered CO2 Sensor](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------:      |
-| [MHZ19C Soldered CO2 Sensor](https://www.solde.red/[_sku])                                          |
+| [MHZ19C Soldered CO2 Sensor](https://www.solde.red/108994)                                          |
 
 MHZ19C Co2 Sensor Board by Soldered
 

@@ -10,7 +10,6 @@
  ***************************************************/
 
 #include "MHZ19-SOLDERED.h"
-#include <SoftwareSerial.h>
 
 // Initiate SoftwareSerial object and pass it to the constructor of MHZ19 class
 SoftwareSerial swSerial(8, 9); // RX, TX

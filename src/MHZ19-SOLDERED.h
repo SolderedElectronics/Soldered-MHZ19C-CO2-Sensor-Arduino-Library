@@ -12,6 +12,12 @@
 #ifndef __MHZ19_SOLDERED__
 #define __MHZ19_SOLDERED__
 
+#ifdef __AVR__
+#include <SoftwareSerial.h>
+#else
+#include "libs/espsoftwareserial/src/SoftwareSerial.h"
+#endif
+
 #include "libs/MHZ19/MHZ19.h"
 #include "libs/MHZ19/MHZ19PWM.h"
 

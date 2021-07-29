@@ -4,7 +4,7 @@
  * @file        Get-Values.ino
  * @brief       Example of reading all info over uart
  *
- *  See the board at https://solde.red/[_sku]
+ *  See the board at https://solde.red/108994
  *
  * @authors     Zvonimir Haramustek for soldered.com
  ***************************************************/

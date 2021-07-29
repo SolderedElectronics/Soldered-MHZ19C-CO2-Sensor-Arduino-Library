@@ -6,12 +6,33 @@
 # Datatypes (KEYWORD1)
 ##################################################
 
+MHZ19 KEYWORD1
+MHZ19PWM KEYWORD1
+
 ##################################################
 # Methods and Functions (KEYWORD2)
 ##################################################
 
-begin	KEYWORD2
+useLimit KEYWORD2
+getCO2 KEYWORD2
+requestData KEYWORD2
+isDataReady KEYWORD2
+retrieveData KEYWORD2
+getCO2 KEYWORD2
+getMinCO2 KEYWORD2
+getTemperature KEYWORD2
+getAccuracy KEYWORD2
+setRange KEYWORD2
+calibrateZero KEYWORD2
+calibrateSpan KEYWORD2
+setAutoCalibration KEYWORD2
+sendCommand KEYWORD2
+receiveResponse KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)
 ##################################################
+
+MHZ_CONTINUOUS_MODE LITERAL1
+MHZ_DELAYED_MODE LITERAL1
+MHZ_ASYNC_MODE LITERAL1

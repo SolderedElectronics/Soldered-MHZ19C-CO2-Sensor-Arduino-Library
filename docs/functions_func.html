@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.9.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>16x2 easyC LCD Library: Class Members - Functions</title>
+<title>MHZ19C Sensor Arduino Library: Class Members - Functions</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -28,10 +28,10 @@
  <tr style="height: 56px;">
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">16x2 easyC LCD Library
+   <div id="projectname">MHZ19C Sensor Arduino Library
    &#160;<span id="projectnumber">1.0.0</span>
    </div>
-   <div id="projectbrief">This is a library for the 16x2 easyC LCD Module</div>
+   <div id="projectbrief">MHZ19C Arduino Library for Soldered Boards</div>
   </td>
  </tr>
  </tbody>
@@ -87,30 +87,84 @@ $(document).ready(function(){initNavTree('functions_func.html',''); initResizabl
 
 <div class="contents">
 &#160;<ul>
-<li>begin()
-: <a class="el" href="class_easy_c.html#a1b5a82b8a59daea79de76e496457e176">EasyC</a>
+<li>bytes2int()
+: <a class="el" href="class_m_h_z19.html#aa6d327585cb29da970c331c6c77e69a2">MHZ19</a>
 </li>
-<li>EasyC()
-: <a class="el" href="class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd">EasyC</a>
+<li>calcCRC()
+: <a class="el" href="class_m_h_z19.html#ae0f502a5446162d10102b6b549548092">MHZ19</a>
 </li>
-<li>initializeNative()
-: <a class="el" href="class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998">EasyC</a>
-, <a class="el" href="class_sensor.html#adb537c76173019fddf84b2d89e6c6559">Sensor</a>
+<li>calibrateSpan()
+: <a class="el" href="class_m_h_z19.html#afa90bf63472120cf869610850f549d44">MHZ19</a>
 </li>
-<li>readData()
-: <a class="el" href="class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a">EasyC</a>
+<li>calibrateZero()
+: <a class="el" href="class_m_h_z19.html#af6df888324dfb944358496a8ba8d26e8">MHZ19</a>
 </li>
-<li>readRegister()
-: <a class="el" href="class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376">EasyC</a>
+<li>getAccuracy()
+: <a class="el" href="class_m_h_z19.html#a4a7baf2bed94308cf187587823239c30">MHZ19</a>
 </li>
-<li>sendAddress()
-: <a class="el" href="class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3">EasyC</a>
+<li>getCO2()
+: <a class="el" href="class_m_h_z19.html#ae233938693b042167649880942f51d8a">MHZ19</a>
+, <a class="el" href="class_m_h_z19_p_w_m.html#ac1e286b316a7d483c658e661badbc8ca">MHZ19PWM</a>
 </li>
-<li>sendData()
-: <a class="el" href="class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195">EasyC</a>
+<li>getMinCO2()
+: <a class="el" href="class_m_h_z19.html#ade6265b8da29dea7473d8587cdda9bd7">MHZ19</a>
 </li>
-<li>Sensor()
-: <a class="el" href="class_sensor.html#a2b8ea6b15267f6fa0e263f57a09f6b62">Sensor</a>
+<li>getTemperature()
+: <a class="el" href="class_m_h_z19.html#ab96a802a46d4fa00f802a8434418b2ec">MHZ19</a>
+</li>
+<li>isDataReady()
+: <a class="el" href="class_m_h_z19_p_w_m.html#a603637a222ce041e60481cb2cb6b5d30">MHZ19PWM</a>
+</li>
+<li>isr()
+: <a class="el" href="class_m_h_z19_p_w_m.html#aa50488b31ad88fe1e6754d374e71fb24">MHZ19PWM</a>
+</li>
+<li>isrInternal()
+: <a class="el" href="class_m_h_z19_p_w_m.html#aecaf5ea4ff942c595f47a78993258b3a">MHZ19PWM</a>
+</li>
+<li>MHZ19()
+: <a class="el" href="class_m_h_z19.html#a94984602b7c64b1914e8f4149d309be6">MHZ19</a>
+</li>
+<li>MHZ19PWM()
+: <a class="el" href="class_m_h_z19_p_w_m.html#ab12339becb2d1fb85e046b891cf27e60">MHZ19PWM</a>
+</li>
+<li>receiveResponse()
+: <a class="el" href="class_m_h_z19.html#abc41d2d35806107f3d4256d31bbff4a4">MHZ19</a>
+</li>
+<li>requestData()
+: <a class="el" href="class_m_h_z19_p_w_m.html#a75704f0f6e61fe6ac4458a9c3027e568">MHZ19PWM</a>
+</li>
+<li>retrieveData()
+: <a class="el" href="class_m_h_z19.html#a1b71230d7d6b9bfde7e8affdc30bc185">MHZ19</a>
+</li>
+<li>sendCommand()
+: <a class="el" href="class_m_h_z19.html#a0359d2960e3ce90e35b3a03f3e54259d">MHZ19</a>
+</li>
+<li>setAutoCalibration()
+: <a class="el" href="class_m_h_z19.html#a7aa571a5f3a466a35b153de236235176">MHZ19</a>
+</li>
+<li>setRange()
+: <a class="el" href="class_m_h_z19.html#adfae58542fb8d1041263808538331e70">MHZ19</a>
+</li>
+<li>start()
+: <a class="el" href="class_m_h_z19_p_w_m.html#a4db568562de6a341039c65b412e9c1e9">MHZ19PWM</a>
+</li>
+<li>stop()
+: <a class="el" href="class_m_h_z19_p_w_m.html#a84b50d31b37e0a7359fc9b0aaada9224">MHZ19PWM</a>
+</li>
+<li>useLimit()
+: <a class="el" href="class_m_h_z19_p_w_m.html#af5ca3b97ca7c74c6e0a311b14b0b6675">MHZ19PWM</a>
+</li>
+<li>waitForData()
+: <a class="el" href="class_m_h_z19_p_w_m.html#a64feee671803733059e4165bad073842">MHZ19PWM</a>
+</li>
+<li>write()
+: <a class="el" href="class_m_h_z19.html#a5543151656e59193ed5f163133d983e9">MHZ19</a>
+</li>
+<li>~MHZ19()
+: <a class="el" href="class_m_h_z19.html#a42417b9332fd90012052991d007e0201">MHZ19</a>
+</li>
+<li>~MHZ19PWM()
+: <a class="el" href="class_m_h_z19_p_w_m.html#a956cd506acf2c99564c6646b93b67813">MHZ19PWM</a>
 </li>
 </ul>
 </div><!-- contents -->
@@ -120,7 +174,7 @@ $(document).ready(function(){initNavTree('functions_func.html',''); initResizabl
     <!-- id is needed for treeview function! -->
     <ul>
         <li class="footer">
-            Generated on Thu Jul 29 2021 10:56:35 for 16x2 easyC LCD Library by <a href="http://www.doxygen.org/index.html">
+            Generated on Thu Jul 29 2021 12:35:21 for MHZ19C Sensor Arduino Library by <a href="http://www.doxygen.org/index.html">
                 <img class="footer" src="doxygen.png" alt="doxygen"
                     onerror="this.onerror=null;this.src='doxygen.svg';" /></a> 1.9.1.
             Dark theme by <a href="http://majerle.eu" target="_new">Tilen Majerle</a>. All rights reserved.

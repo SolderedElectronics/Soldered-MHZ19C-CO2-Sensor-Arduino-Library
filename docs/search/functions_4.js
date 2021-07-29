@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['sendaddress_32',['sendAddress',['../class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3',1,'EasyC']]],
-  ['senddata_33',['sendData',['../class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195',1,'EasyC']]],
-  ['sensor_34',['Sensor',['../class_sensor.html#a2b8ea6b15267f6fa0e263f57a09f6b62',1,'Sensor']]]
+  ['mhz19_88',['MHZ19',['../class_m_h_z19.html#a94984602b7c64b1914e8f4149d309be6',1,'MHZ19']]],
+  ['mhz19pwm_89',['MHZ19PWM',['../class_m_h_z19_p_w_m.html#ab12339becb2d1fb85e046b891cf27e60',1,'MHZ19PWM']]]
 ];

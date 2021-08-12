@@ -33,5 +33,7 @@ var annotated_dup =
     [ "Delegate< R(P...), A >", "class_delegate_3_01_r_07_p_8_8_8_08_00_01_a_01_4.html", "class_delegate_3_01_r_07_p_8_8_8_08_00_01_a_01_4" ],
     [ "Delegate< R(P...)>", "class_delegate_3_01_r_07_p_8_8_8_08_4.html", "class_delegate_3_01_r_07_p_8_8_8_08_4" ],
     [ "InterruptLock", "class_interrupt_lock.html", "class_interrupt_lock" ],
+    [ "MHZ19", "class_m_h_z19.html", "class_m_h_z19" ],
+    [ "MHZ19PWM", "class_m_h_z19_p_w_m.html", "class_m_h_z19_p_w_m" ],
     [ "MultiDelegate", "class_multi_delegate.html", null ]
 ];

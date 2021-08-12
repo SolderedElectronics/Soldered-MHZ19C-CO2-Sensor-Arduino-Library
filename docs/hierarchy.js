@@ -38,6 +38,8 @@ var hierarchy =
     [ "std::iterator", null, [
       [ "delegate::detail::MultiDelegatePImpl< Delegate, R, ISQUEUE, QUEUE_CAPACITY, P >::iterator", "classdelegate_1_1detail_1_1_multi_delegate_p_impl_1_1iterator.html", null ]
     ] ],
+    [ "MHZ19", "class_m_h_z19.html", null ],
+    [ "MHZ19PWM", "class_m_h_z19_p_w_m.html", null ],
     [ "delegate::detail::MultiDelegate< Delegate, R, ISQUEUE, QUEUE_CAPACITY, P >", "classdelegate_1_1detail_1_1_multi_delegate.html", null ],
     [ "delegate::detail::MultiDelegate< Delegate, Delegate::target_type, false, 32 >", "classdelegate_1_1detail_1_1_multi_delegate.html", [
       [ "MultiDelegate< Delegate, ISQUEUE, QUEUE_CAPACITY >", "class_multi_delegate.html", null ]

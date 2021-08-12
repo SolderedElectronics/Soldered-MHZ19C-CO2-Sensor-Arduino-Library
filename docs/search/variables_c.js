@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['stop_436',['stop',['../classdelegate_1_1detail_1_1_multi_delegate_p_impl_1_1iterator.html#aa30cad1f853f215bf2181fc77539a5ab',1,'delegate::detail::MultiDelegatePImpl::iterator']]]
+  ['unused_329',['unused',['../classdelegate_1_1detail_1_1_multi_delegate_p_impl.html#a01922e92bbb12e37fd7096e42e813596',1,'delegate::detail::MultiDelegatePImpl']]]
 ];

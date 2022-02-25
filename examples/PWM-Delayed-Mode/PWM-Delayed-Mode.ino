@@ -35,14 +35,14 @@ void showValue()
     unsigned long duration = millis() - start;
 
     Serial.print(F("CO2: "));
-    Serial.println(co2);
+    Serial.println(co2);    //Get value of CO2 from sensor
     Serial.print(F("Duration: "));
-    Serial.println(duration);
+    Serial.println(duration);   //Print duration of measurement
     Serial.println();
 }
 
 void loop()
 {
-    showValue();
+    showValue();//Call function to read and print CO2 value
     delay(5000);
 }

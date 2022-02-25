@@ -17,11 +17,12 @@ MHZ19 mhz(&swSerial);
 
 void setup()
 {
-    // Set the baud rate of the serial port and software serial object
-    Serial.begin(115200);
+    Serial.begin(115200);   // Start serial communication with PC using native Serial port
+                            // with baudrate of 115200
     Serial.println(F("Starting..."));
 
-    swSerial.begin(9600);
+    swSerial.begin(9600);   // Start serial communication with sensor using software serial
+                            // with baudrate of 9600
 }
 
 void loop()
@@ -31,17 +32,17 @@ void loop()
     if (response == MHZ19_RESULT_OK)
     {
         Serial.print(F("CO2: "));
-        Serial.println(mhz.getCO2());
+        Serial.println(mhz.getCO2());   // Print CO2 value in air
         Serial.print(F("Min CO2: "));
-        Serial.println(mhz.getMinCO2());
+        Serial.println(mhz.getMinCO2()); // Print min measured CO2 value in air
         Serial.print(F("Temperature: "));
-        Serial.println(mhz.getTemperature());
+        Serial.println(mhz.getTemperature()); // Print air temperature
         Serial.print(F("Accuracy: "));
-        Serial.println(mhz.getAccuracy());
+        Serial.println(mhz.getAccuracy()); //Print accuracy
     }
     else
     {
-        Serial.print(F("Error, code: "));
+        Serial.print(F("Error, code: ")); //If error occured, print error code
         Serial.println(response);
     }
 

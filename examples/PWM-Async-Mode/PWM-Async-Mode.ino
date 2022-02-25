@@ -26,15 +26,15 @@ void setup()
 
     delay(2000);
 
-    mhz.useLimit(5000);
+    mhz.useLimit(5000); //Set max measurable ppm
 }
 
 // This function is called periodically and shows the current value of the PWM CO2 readout
 void showValue()
 {
-    unsigned long start = millis();
-    float co2 = mhz.getCO2();
-    unsigned long duration = millis() - start;
+    unsigned long start = millis(); //Get timestamp of start
+    float co2 = mhz.getCO2();   //Get CO2 from sensor
+    unsigned long duration = millis() - start;  //Get duration of measure
 
     Serial.print(F("CO2: "));
     Serial.println(co2);
@@ -53,13 +53,13 @@ void loop()
         if (ms - _time >= 500 || ms < _time)
         {
             _time = ms;
-            bool state = mhz.isDataReady();
+            bool state = mhz.isDataReady(); //Check is sensor has ready data
             Serial.print(F("isDataReady: "));
             Serial.println(state);
 
             if (state)
             {
-                waitMode = false;
+                waitMode = false; //If tehere is data to read, exit wait mode 
                 showValue();
             }
         }
@@ -69,8 +69,8 @@ void loop()
         if (ms - _time >= 10000 || ms < _time)
         {
             _time = ms;
-            waitMode = true;
-            mhz.requestData();
+            waitMode = true;    //When data is read, enter wait mode
+            mhz.requestData();  //Request data from sensor
             Serial.println(F("Request data"));
         }
     }
